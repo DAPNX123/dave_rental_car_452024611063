@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "255535499801",
+    "project_id": "dave-rental-car",
+    "storage_bucket": "dave-rental-car.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255535499801:android:60a75afe628bbed2bb7888",
+        "android_client_info": {
+          "package_name": "com.dave_rental_car.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255535499801-9l9urhvsb3udbdtfri298dgm9su70kdf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dave_rental_car.app",
+            "certificate_hash": "3387f67f33de8953504a8e4febcf46f400bf8727"
+          }
+        },
+        {
+          "client_id": "255535499801-v1l01i7dkmuo36jjj37iao41h7og0lpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqoQQ0Tp5rnlyIDPJ_aWT6rtyaegGaHI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255535499801-v1l01i7dkmuo36jjj37iao41h7og0lpb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

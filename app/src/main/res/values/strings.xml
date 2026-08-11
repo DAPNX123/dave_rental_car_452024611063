@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Dave rental car</string>
+    <string name="title_activity_main">Dave rental car</string>
+    <string name="package_name">com.dave_rental_car.app</string>
+    <string name="custom_url_scheme">com.dave_rental_car.app</string>
+</resources>
